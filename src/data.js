@@ -1,33 +1,33 @@
 const questions = [
     {
       id: 1,
-      title: 'Do I have to allow the use of cookies?',
+      title: 'What is HTML explain?',
       info:
-        'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+        'HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.',
     },
     {
       id: 2,
-      title: 'How do I change my My Page password?',
+      title: 'What is CSS why it is used?',
       info:
-        'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+        'CSS stands for cascading style sheets. In short, CSS is a design language that makes a website look more appealing than just plain or uninspiring pieces of text. Whereas HTML largely determines textual content, CSS determines visual structure, layout, and aesthetics.',
     },
     {
       id: 3,
-      title: 'What is BankID?',
+      title: 'What is Bootstrap used for?',
       info:
-        'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+        'Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.',
     },
     {
       id: 4,
-      title: 'Whose birth number can I use?',
+      title: 'What is JavaScript mainly used for?',
       info:
-        'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+        'Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it is the most used programming language in the world, used as a client-side programming language by 97.0% of all websites',
     },
     {
       id: 5,
-      title: 'When do I recieve a password ordered by letter?',
+      title: 'What is React and why use it?',
       info:
-        'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+        'React is a JavaScript library developed by Facebook which, among other things, was used to build Instagram.com. Its aim is to allow developers to easily create fast user interfaces for websites and applications alike. The main concept of React. js is virtual DOM.',
     },
   ]
   export default questions
